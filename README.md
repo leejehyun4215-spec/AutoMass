@@ -54,3 +54,7 @@ Lee Jehyun
 🚧 Under Development
 
 Started: June 2026
+
+## Development Philosophy
+
+AutoMass is developed through iterative design, rapid prototyping, and AI-assisted engineering.
